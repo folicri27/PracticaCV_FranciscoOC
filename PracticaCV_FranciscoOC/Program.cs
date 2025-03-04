@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_FranciscoOC
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_FranciscoOC
 {
     internal class Program
     {
@@ -9,10 +11,11 @@
             // VARIABLES
 
             // ENTRADA
-            
+
             // PROCESO
 
             // SALIDA
+            Console.WriteLine("Mi nombre es: FranciscoOC");
         }
     }
 }
